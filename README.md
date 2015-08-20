@@ -1,4 +1,4 @@
-# Full Class - August 2015
+# Full Class - September 2015
 
 ## Welcome to Origin Code Academy
 
