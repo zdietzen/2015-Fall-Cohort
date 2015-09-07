@@ -36,3 +36,7 @@ If you are bringing a MacBook - there are several ways you can get Windows runni
 * [Stack Overflow](http://www.stackoverflow.com) - You will get stuck at some point, and you will need to ask for help. Stack Overflow is a great place to find this help. You can search and find out if your question has already been answered, and if it hasn't - you can post a question and get the answer you need.
 * [General Typing Practice](http://www.keybr.com/#!game) - You will be doing lots of typing in this course, the better you are with a keyboard the easier the course will be.
 * [Code Typing Practice](https://typing.io/lesson/javascript/jquery/traversing.js/1) - You will be typing a lot of code in this course. This site will ask you to type the code you see on the screen, forcing you to type characters you normally wouldn't in a non-coding scenario.
+* 
+
+### Once you're finished
+Let me know by clicking here. This will create an issue in the repository with some questions for you to answer. Create and fill in the issue and you're done!
